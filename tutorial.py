@@ -1,0 +1,6 @@
+name=input( 'name:\n')
+department=input('department:\n')
+registration_no=input('registration_no:\n')
+print(name)
+print(department)
+print(registration_no)
